@@ -122,7 +122,7 @@ Tran, Binh Thang (Hue city, Vietnam)
  * Publication: 
 
 
-September 2014
+September 2014 (06)
 ======
 Tran, Binh Thang (Hue city, Vietnam)
 * Current: PhD Training
@@ -135,40 +135,21 @@ Tran, Binh Thang (Hue city, Vietnam)
     * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
  * Publication: 
 
-March 2014
+March 2014 (01)
 ======
-Tran, Binh Thang (Hue city, Vietnam)
+To, Thi Ngoc Han (HCMC, Vietnam)
 * Current: PhD Training
-* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Previous Job: Nil
 * Email: Binhthang1001@gmail.com
 
 * Education
-  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+  * PhD. in Ilsong Institute of Life Science - Hallym University, 3/2017-Present  (??)
+  * M.S. in Cancer Medical Science, NCC-GCSP, 3/2014-3/2016  (????)
+    * MS Thesis "ANXA2 Enhances Invasion of Pancreatic Cancer Cells by FAM20C-Mediated Secretion"
+    * Advisor: Professor Yun-Hee Kim
  * Publication: 
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -188,6 +169,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
