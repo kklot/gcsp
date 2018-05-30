@@ -18,90 +18,135 @@ Summary all GCSP alumnus profile - so please email me for your profile update (b
 September 2018
 ======
 Tran, Binh Thang (Hue city, Vietnam)
-* Current position: Researcher, Hue UMP, Vietnam
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
 * Email: Binhthang1001@gmail.com
 
 * Education
   * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
   * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
     * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+ * Publication: 
 
 March 2018
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 
 September 2017
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 March 2017
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
 
-
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
+ 
 September 2016
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 March 2016
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 
 September 2015
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 March 2015
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 
 September 2014
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 March 2014
 ======
-Tran, Binh Thang (Hue city, Vietnam) - GCSP
-* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
- * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication:
+Tran, Binh Thang (Hue city, Vietnam)
+* Current: PhD Training
+* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
+* Email: Binhthang1001@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication: 
 
 
 Work experience
