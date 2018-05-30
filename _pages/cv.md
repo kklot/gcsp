@@ -13,11 +13,8 @@ Tran, Binh Thang (Hue city, Vietnam)
 ======
 * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
 * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-  *Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
-*Publication:
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+ * Publication:
 
 Work experience
 ======
