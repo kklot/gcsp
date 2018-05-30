@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Tran, Binh Thang (Hue city, Vietnam)
+Summary all GCSP alumnus profile - so please email me for your profile update (binhthang1001@gmail.com)
+
+======
+
+Tran, Binh Thang (Hue city, Vietnam) - GCSP
 ======
 * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
 * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
