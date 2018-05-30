@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The prevalence trend of metabolic syndrome and its components and risk factors in Korean adults: results from the Korean National Health and Nutrition Examination Survey 2008–2013"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Abnormalities in the clinical markers of metabolic syndrome (MS) are associated with the development of cardiovascular disease, type 2 diabetes mellitus, and some cancers. MS prevalence in Korea increased between the mid-1990s and mid-2000s; however, no data on the recent trends of MS prevalence are available. Thus, we aimed to investigate the prevalence of MS, the five components of MS, and the related risk factors in Korean adults by using recent data.'
+date: 2017-10-01
+venue: 'BMC public health'
+paperurl: 'https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3936-6'
+citation: 'BT Tran, BY Jeong, JK Oh. (2009). &quot;The prevalence trend of metabolic syndrome and its components and risk factors in Korean adults: results from the Korean National Health and Nutrition Examination Survey 2008–2013.&quot; <i>BMC public health</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abnormalities in the clinical markers of metabolic syndrome (MS) are associated with the development of cardiovascular disease, type 2 diabetes mellitus, and some cancers. MS prevalence in Korea increased between the mid-1990s and mid-2000s; however, no data on the recent trends of MS prevalence are available. Thus, we aimed to investigate the prevalence of MS, the five components of MS, and the related risk factors in Korean adults by using recent data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3936-6)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'BT Tran, BY Jeong, JK Oh. (2009). &quot;The prevalence trend of metabolic syndrome and its components and risk factors in Korean adults: results from the Korean National Health and Nutrition Examination Survey 2008–2013.&quot; <i>BMC public health</i>. 1(1).'
