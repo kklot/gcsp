@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Profiles"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Tran, Binh Thang (Hue city, Vietnam)
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
+* M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
+  *Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
+*Publication:
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
