@@ -18,6 +18,9 @@ Summary all GCSP alumnus profile - so please email me for your profile update (b
 September 2018
 ======
 Tran, Binh Thang (Hue city, Vietnam) - GCSP
+Current position: Researcher, Hue UMP, Vietnam
+Email:Binhthang1001@gmail.com
+Education
 * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
 * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
  * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
