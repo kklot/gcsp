@@ -18,12 +18,9 @@ Summary all GCSP alumnus profile - so please email me for your profile update (b
 September 2018
 ======
 Tran, Binh Thang (Hue city, Vietnam)
-  * Current position: Researcher, Hue UMP, Vietnam
-  * Email:Binhthang1001@gmail.com
- * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Current position: Researcher, Hue UMP, Vietnam
+* Email: Binhthang1001@gmail.com
+
 * Education
  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
