@@ -41,7 +41,7 @@ Building a world-wide platform to encourage academic interchange in the cancer f
 
 Vietnamese NCC GCSP (Photo May 2018)
 
-![Vietnamese NCC GCSP](gcsp/blob/master/images/GCSP.png)
+![Vietnamese NCC GCSP](:images/GCSP.png)
 
 For more info
 ------
