@@ -40,8 +40,9 @@ The National Cancer Center Graduate School of Cancer Science and Policy nurtures
 Building a world-wide platform to encourage academic interchange in the cancer field
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Vietnamese NCC GCSP (Photo May 2018)
+
+![Editing a markdown file for a talk](/images/GCSP.png)
 
 For more info
 ------
