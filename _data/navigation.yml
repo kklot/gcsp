@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "About us"
+    url: /About us/
     
   - title: "Publications"
     url: /publications/
