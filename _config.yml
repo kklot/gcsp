@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "GCSP: The group"
 title_separator          : "-"
-name                     : &name "Binh Thang"
+name                     : &name "Vietnamese GCSP"
 description              : &description "personal description"
 url                      : http://gcsp.ytecongcong.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Binh Thang Tran"
+  name             : "Vietnamese GCSP-Korea"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
