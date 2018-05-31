@@ -27,7 +27,7 @@ Các tài liệu hay các vấn đề về Ung thư hay các bệnh không lây 
 
 Vietnamese NCC GCSP (Photo May 2018)
 
-![Vietnamese NCC GCSP](:images/GCSP.png)
+![Vietnamese NCC GCSP] (:images/GCSP.png)
 
 
 NCC-GCSP information 
