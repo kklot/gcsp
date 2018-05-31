@@ -159,7 +159,7 @@ September 2014 (06)
     * Advisor: Professor Kim Young Woo  
  * Publication: 
 
-4. Nguyen, Huong Giang (Hanoi, Vietnam)
+(4) Nguyen, Huong Giang (Hanoi, Vietnam)
 * Current: Researcher, National Cancer Hospital, Hanoi, Vietnam
 * Previous Job: Nil
 * Email: huonggiang.hmu.0814@gmail.com
@@ -170,8 +170,34 @@ September 2014 (06)
     * M.P.H Thesis "Combined Effect of Smoking and Infection on Liver Cancer: Results from Korean National Cancer Center Community Cohort"
     * Advisor: Professor Min Kyung Lim
    * Publication: 
-    
-5. Nguyen, Mai Ha (Hanoi, Vietnam)
+
+(5) Bui, Cam Nhun (Hanoi, Vietnam)
+* Current: PhD training
+* Previous Job: Nil
+* Email: nhung305hmu@gmail.com
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Screening and Policy)
+  * Asistant researcher, NCC-GCSP, 3/2017-3/2018  
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-3/2017  (Screening and Policy)
+    * M.P.H Thesis "	Beliefs and Intention to Undergo Lung Cancer Screening Among Korean Population"
+    * Advisor: Professor Kui Son Choi
+   * Publication: 
+
+(6). Tran, Thi Xuan Mai (HCMC, Vietnam)
+* Current: Phd Training
+* Previous Job: Tan Tao University, Vietnam
+* Email: trant.xuanmai@gmail.com 
+
+* Education
+  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (QoL and Statistics)
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-3/2017 (Paliative Care)
+    * M.P.H Thesis "Trends and Factors Associated With Place of Death in Elderly Decedents in Korea: A Population-Based Study Using Death Registration Database, 2001-2014"
+    * Advisor: Professor Yoonjung Chang and Hyunsoon Cho
+   * Publication: 
+   
+   
+(7). Nguyen, Mai Ha (Hanoi, Vietnam)
 * Current: Phd Training
 * Previous Job: Nil
 * Email: maiha.public.health@gmail.com
@@ -179,8 +205,8 @@ September 2014 (06)
 * Education
   * PhD: Nil
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-3/2017 
-    * M.P.H Thesis "Association between viral hepatitis infection and parkinson\'s disease in Korea: a population-based cohort study"
-    * Advisor: Professor Min Kyung Lim
+    * M.P.H Thesis "Association between viral hepatitis infection and parkinson's disease in Korea: a population-based cohort study"
+    * Advisor: Professor Moran Ki
    * Publication: 
         
 March 2014 (01)
@@ -194,7 +220,7 @@ To, Thi Ngoc Han (HCMC, Vietnam)
   * PhD. in  (??)
   * M.S. in Cancer Medical Science, NCC-GCSP, 3/2014-3/2016  (????)
     * MS Thesis "ANXA2 Enhances Invasion of Pancreatic Cancer Cells by FAM20C-Mediated Secretion"
-    * Advisor: Professor Moran Ki
+    * Advisor: Professor Yun-Hee Kim
  * Publication: 
 
 
