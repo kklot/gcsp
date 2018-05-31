@@ -176,7 +176,6 @@ September 2014 (07)
 * Email: luungocminh31@gmail.com 
 
 * Education
-  * PhD: Nil
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-9/2016 
     * M.P.H Thesis "Factors Associated with Smoking Cessation in Vietnam and Korea: The Results from Cross-Sectional Survey"
     * Advisor: Professor Dukhyoung Lee, Min Kyung Lim
@@ -187,7 +186,6 @@ September 2014 (07)
 * Email: hoangvietbach90@gmail.com 
 
 * Education
-  * PhD: Nil
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-3/2017 
     * M.P.H Thesis "The effect of dietary vitamin C, thiamine, and riboflavin of gastric cancer risk in the korean population"
     * Advisor: Professor Jeongseon Kim
@@ -197,7 +195,6 @@ September 2014 (07)
 * Email: ntthoaian62@gmail.com
 
 * Education
-  * PhD: Nil
   * M.S. in Cancer Medical Science, NCC-GCSP, 9/2014-3/2017
     * M.S Thesis "Totally Laparoscopic Total Gastrectomy versus Laparoscopy - Assisted Total Gastrectomy for Gastric Cancer: A Meta-analysis of Prospective and Retrospective Studies"
     * Advisor: Professor Kim Young Woo  
@@ -205,11 +202,10 @@ September 2014 (07)
 
 (4) Nguyen, Huong Giang (Hanoi, Vietnam)
 * Current: Researcher, National Cancer Hospital, Hanoi, Vietnam
-* Previous Job: Nil
+* Previous Job: National Cancer Hospital, Hanoi, Vietnam
 * Email: huonggiang.hmu.0814@gmail.com
 
 * Education
-  * PhD: Nil
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-3/2017 
     * M.P.H Thesis "Combined Effect of Smoking and Infection on Liver Cancer: Results from Korean National Cancer Center Community Cohort"
     * Advisor: Professor Min Kyung Lim
@@ -242,7 +238,6 @@ September 2014 (07)
    
 (7). Nguyen, Mai Ha (Hanoi, Vietnam)
 * Current: Phd Training
-* Previous Job: Nil
 * Email: maiha.public.health@gmail.com
 
 * Education
@@ -256,7 +251,6 @@ March 2014 (01)
 ======
 To, Thi Ngoc Han (HCMC, Vietnam)
 * Current: PhD Training
-* Previous Job: Nil
 * Email: Binhthang1001@gmail.com
 
 * Education
