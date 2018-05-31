@@ -96,6 +96,7 @@ September 2016 (06)
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
     * Advisor: Professor KuiSon Choi
+    
 (02). Nguyen, Thi Xuan Trinh (HCMC, Vietnam)
 * Current: MPH Training
 * Email: xuantrinh93@gmail.com
@@ -198,7 +199,7 @@ September 2014 (07)
 * Education
   * PhD: Nil
   * M.S. in Cancer Medical Science, NCC-GCSP, 9/2014-3/2017
-    * M.P.H Thesis "Totally Laparoscopic Total Gastrectomy versus Laparoscopy - Assisted Total Gastrectomy for Gastric Cancer: A Meta-analysis of Prospective and Retrospective Studies"
+    * M.S Thesis "Totally Laparoscopic Total Gastrectomy versus Laparoscopy - Assisted Total Gastrectomy for Gastric Cancer: A Meta-analysis of Prospective and Retrospective Studies"
     * Advisor: Professor Kim Young Woo  
  * Publication: 
 
@@ -245,7 +246,7 @@ September 2014 (07)
 * Email: maiha.public.health@gmail.com
 
 * Education
-  * PhD: ???
+  * PhD: In Australia
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-9/2016 
     * M.P.H Thesis "Association between viral hepatitis infection and parkinson's disease in Korea: a population-based cohort study"
     * Advisor: Professor Moran Ki
@@ -259,8 +260,8 @@ To, Thi Ngoc Han (HCMC, Vietnam)
 * Email: Binhthang1001@gmail.com
 
 * Education
-  * PhD. in  (??)
-  * M.S. in Cancer Medical Science, NCC-GCSP, 3/2014-3/2016  (????)
+  * PhD. in  Ilsong Institute of Life Science - Hallym University, Korea
+  * M.S. in Cancer Medical Science, NCC-GCSP, 3/2014-3/2016 
     * MS Thesis "ANXA2 Enhances Invasion of Pancreatic Cancer Cells by FAM20C-Mediated Secretion"
     * Advisor: Professor Yun-Hee Kim
  * Publication: 
