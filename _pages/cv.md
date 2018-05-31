@@ -124,7 +124,7 @@ Tran, Binh Thang (Hue city, Vietnam)
 
 September 2014 (06)
 ======
-Luu, Ngoc Minh (Hanoi, Vietnam)
+(1) Luu, Ngoc Minh (Hanoi, Vietnam)
 * Current: Lecturer, Ha Noi Medical University, Vietnam
 * Previous Job: Lecturer, Ha Noi Medical University, Vietnam
 * Email: luungocminh31@gmail.com 
@@ -136,7 +136,7 @@ Luu, Ngoc Minh (Hanoi, Vietnam)
     * Advisor: Professor Dukhyoung Lee, Min Kyung Lim
  * Publication: 
 
-Hoang, Viet Bach (Hanoi, Vietnam)
+(2) Hoang, Viet Bach (Hanoi, Vietnam)
 * Current: Researcher, National Cancer Hospital, Hanoi, Vietnam
 * Previous Job: Nil
 * Email: hoangvietbach90@gmail.com 
@@ -147,7 +147,7 @@ Hoang, Viet Bach (Hanoi, Vietnam)
     * M.P.H Thesis "The effect of dietary vitamin C, thiamine, and riboflavin of gastric cancer risk in the korean population"
     * Advisor: Professor Jeongseon Kim
     
-3. Nguyen, Thi Thoai An (HCMC, Vietnam)
+(3) Nguyen, Thi Thoai An (HCMC, Vietnam)
 * Current: Lecturer, HCMC University of Medicine and Pharmacy, HCMC, Vietnam
 * Previous Job: HCMC University of Medicine and Pharmacy, HCMC, Vietnam
 * Email: ntthoaian62@gmail.com
