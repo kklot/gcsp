@@ -1,15 +1,15 @@
 ---
-title: "Dietary inflammatory index and the risk of gastric cancer in a Korean population"
+title: "liver cancer in Vietnam"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-2
-excerpt: 'We aimed to investigate the association with the Dietary Inflammatory Index (DII™) on the risk of gastric cancer and whether histological type modifies this association.'
+excerpt: 'The highest burden of liver cancer incident cases, deaths, and DALYs was observed in East Asia Japan was the driver behind this finding with 75% of incident cases of which 67% were due to HCV Southeast Asia experienced the fourth highest number of incident liver cancer cases but ranked second for liver cancer deaths and DALYs ASIR some countries with high incidence rates like China and countries in Western and Eastern sub-Saharan Africa have experienced a decrease of over 20% in ASIR ASMR declined substantially in regions with high liver cancer burden'
 date: 2017-10-01
-venue: 'Oncotarget.'
-paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5689622/pdf/oncotarget-08-85452.pdf'
-citation: 'BT Tran, BY Jeong, JK Oh. (2009). &quot;Dietary inflammatory index and the risk of gastric cancer in a Korean population.&quot; <i>Oncotargeth</i>. 1(1).'
+venue: 'personal review'
+paperurl: 'trim.vn/uKPqis'
+citation: 'BT Tran, (2018). &quot; Dietary inflammatory index and the risk of gastric cancer in a Korean population.&quot; <i>Personal Review</i>. 1(1).'
 ---
-We aimed to investigate the association with the Dietary Inflammatory Index (DII™) on the risk of gastric cancer and whether histological type modifies this association.
+The highest burden of liver cancer incident cases, deaths, and DALYs was observed in East Asia Japan was the driver behind this finding with 75% of incident cases of which 67% were due to HCV Southeast Asia experienced the fourth highest number of incident liver cancer cases but ranked second for liver cancer deaths and DALYs ASIR some countries with high incidence rates like China and countries in Western and Eastern sub-Saharan Africa have experienced a decrease of over 20% in ASIR ASMR declined substantially in regions with high liver cancer burden
 
-[Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5689622/pdf/oncotarget-08-85452.pdf)
+[Download paper here](trim.vn/uKPqis)
 
-Recommended citation: 'Lee, Sunghee, Jeonghee Lee, Il Ju Choi, Young-Woo Kim, Keun Won Ryu, Young-Il Kim, Jin-Kyoung Oh, Binh Thang Tran, and Jeongseon Kim (2017). &quot;Dietary inflammatory index and the risk of gastric cancer in a Korean population.&quot; <i>Oncotarget</i>. 1(1).'
+Recommended citation: 'BT Tran, (2018). &quot; Dietary inflammatory index and the risk of gastric cancer in a Korean population.&quot; <i>Personal Review</i>. 1(1).'
