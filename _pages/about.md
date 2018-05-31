@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to Vietnamese NCC-GCSP alumunus and current students !
+Welcome to Vietnamese NCC-GCSP alumnus and current students !
 
 
 Welcome to the Association of Students and former GCSP students.
