@@ -19,7 +19,7 @@ September 2018
 ======
 updating
 
-March 2018
+March 2018 (03)
 ======
 
 (01). Nguyen, Minh Duc (Hanoi, Vietnam)
@@ -52,7 +52,7 @@ March 2018
 
 
 
-September 2017
+September 2017 (02)
 ======
 (01). Nguyen, Ngoc Dung (Hanoi, Vietnam)
 * Current: MPH Training
@@ -69,7 +69,7 @@ September 2017
   * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2017-9/2019
     * Advisor: Professor Anders LinDroth
 
-March 2017
+March 2017 (02)
 ======
 (01). Tran, Thi Phuong Thao (Hanoi, Vietnam)
 * Current: MPH Training
