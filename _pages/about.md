@@ -22,10 +22,11 @@ Chào mừng đến với page của Hội SV và cựu SV từ GCSP.
 Mình lập trang này với mong muốn kết nối các anh chị em đã từng và đang học tại GCSP. Đây sẽ là nơi lưu giữ những kỷ niệm đẹp của các anh chị em trong thời gian học tập tại thành phố Hoa xinh đẹp của Hàn Quốc - Goyang city. 
 Các tài liệu hay các vấn đề về Ung thư hay các bệnh không lây khác sẽ được cập nhật ở đây dưới dạng tài liệu tham khảo như bài báo, hay các tài liệu các bạn SV báo cáo hay từ các hội nghị.
 
-Web content admin: Binh Thang
-Design: Ytecongcong.com
 
-NCC-GCSP
+    Web content admin: Binh Thang
+    Design: Ytecongcong.com
+
+NCC-GCSP information 
 ======
 The [National Cancer Center Graduate School of Cancer Science and Policy](http://www.ncc-gcsp.ac.kr/) (hereafter referred to as NCC-GCSP) is the first national level institute of education and research in cancer science and policy, established by the National Cancer Center (NCC), Korea. 
 
@@ -44,4 +45,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+email: binhthang1001@gmail.com
+
