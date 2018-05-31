@@ -95,20 +95,8 @@ Tran, Binh Thang (Hue city, Vietnam)
  * Publication: 
 
 
-September 2015
-======
-Tran, Binh Thang (Hue city, Vietnam)
-* Current: PhD Training
-* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
-* Email: Binhthang1001@gmail.com
 
-* Education
-  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication: 
-
-September 2015
+September 2015 (02)
 ======
 (1) Tran, Binh Thang (Hue city, Vietnam)
 * Current: PhD Training
@@ -122,7 +110,7 @@ September 2015
      * Advisor: Professor Jin-Kyoung Oh
  * Publication: 
 
-(1) Vu, Thu Thao (Hanoi, Vietnam)
+(2) Vu, Thu Thao (Hanoi, Vietnam)
 * Current: Researcher, National Cancer Hospital, Hanoi, Vietnam
 * Previous Job: National Cancer Hospital, Hanoi, Vietnam
 * Email: tthao1308@gmail.com
@@ -136,7 +124,7 @@ September 2015
 
 
 
-September 2014 (06)
+September 2014 (07)
 ======
 (1) Luu, Ngoc Minh (Hanoi, Vietnam)
 * Current: Lecturer, Ha Noi Medical University, Vietnam
