@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Summary all GCSP alumnus profile - so please email me for your profile update (binhthang1001@gmail.com)
-Total of 25 students
+Total of 23 students
 ======
 
 
@@ -37,8 +37,8 @@ March 2018 (03)
 
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2020
-    * Advisor: Professor JinKyeong Oh
-   * Publication:
+    * Advisor: Professor Jin-Kyoung Oh
+
 
 (03). Le, Trong Dat (Hanoi, Vietnam)
 * Current: MS Training
@@ -56,12 +56,12 @@ September 2017 (02)
 ======
 (01). Nguyen, Ngoc Dung (Hanoi, Vietnam)
 * Current: MPH Training
-* Previous Job: Nil
 * Email: ngocdungnguyen.hmu@gmail.com
 
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2017-9/2019
     * Advisor: Professor Moran Ki
+
 (2). Nguyen, Viet Ha (Hanoi, Vietnam)
 * Current: MS Training
 * Email: ha.nguyenviet310@gmail.com
@@ -87,7 +87,7 @@ March 2017 (02)
     * Advisor: Professor Seung-Kwon Myung
 
  
-September 2016 (08)
+September 2016 (06)
 ======
 (01). Nguyen, Thi Ngoc Phuong (Hanoi, Vietnam)
 * Current: MPH Training
@@ -111,6 +111,7 @@ September 2016 (08)
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018 
     * M.P.H Thesis 
     * Advisor: Professor Boyong Park, SunYoung Kim
+
 (04). Nguyen, Ngoc Quy (Hanoi, Vietnam)
 * Current: MPH Training
 * Email: augustino0890@gmail.com
@@ -118,6 +119,7 @@ September 2016 (08)
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
     * M.P.H Thesis 
     * Advisor: Professor Jeongseon Kim
+
 (05). Tran, Thi Anh Tho (Hanoi, Vietnam)
 * Current: MS Training
 * Email: trananhthohmu@gmail.com
@@ -127,7 +129,7 @@ September 2016 (08)
     * Advisor: Professor JongBae Park
 
 
-(8). Le, Thi Tuyet Minh (HCMC, Vietnam)
+(06). Le, Thi Tuyet Minh (HCMC, Vietnam)
 * Current: MS Training
 * Email: lethituyetminh19289@gmail.com
 * Education
@@ -135,15 +137,6 @@ September 2016 (08)
     * M.S Thesis 
     * Advisor: Professor Ho Lee
 
-
-
-
-* Education
-  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
-     * Advisor: Professor Jin-Kyoung Oh
- * Publication: 
 
 
 September 2015 (02)
