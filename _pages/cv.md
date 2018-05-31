@@ -17,63 +17,126 @@ Summary all GCSP alumnus profile - so please email me for your profile update (b
 
 September 2018
 ======
-Tran, Binh Thang (Hue city, Vietnam)
-* Current: PhD Training
-* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
-* Email: Binhthang1001@gmail.com
-
-* Education
-  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication: 
+updating
 
 March 2018
 ======
-Tran, Binh Thang (Hue city, Vietnam)
-* Current: PhD Training
-* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
-* Email: Binhthang1001@gmail.com
+
+(01). Nguyen, Minh Duc (Hanoi, Vietnam)
+* Current: Post-Doc
+* Previous Job: Researcher, Sungkyunkwan university
+* Email: minhducdkh@gmail.com
+ * Advisor: Professor Bum Lee
+* Education
+  * PhD. in Sungkyungkwan university
+  * M.S in Chungang university
+   
+(02). Nguyen, Thi Huyen Trang (Hanoi, Vietnam)
+* Current: MPH Training
+* Email: trangbn.18@gmail.com
 
 * Education
-  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication: 
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2020
+    * Advisor: Professor JinKyeong Oh
+   * Publication:
+
+(03). Le, Trong Dat (Hanoi, Vietnam)
+* Current: MS Training
+* Email: dat.le.90@outlook.com
+
+* Education
+  * M.S in Cancer Biomedical Science, NCC-GCSP, 3/2018-3/2020
+    * Advisor: Professor JooYoung Kim
+
+
+
 
 
 September 2017
 ======
-Tran, Binh Thang (Hue city, Vietnam)
-* Current: PhD Training
-* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
-* Email: Binhthang1001@gmail.com
+(01). Nguyen, Ngoc Dung (Hanoi, Vietnam)
+* Current: MPH Training
+* Previous Job: Nil
+* Email: ngocdungnguyen.hmu@gmail.com
 
 * Education
-  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication: 
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2017-9/2019
+    * Advisor: Professor Moran Ki
+(2). Nguyen, Viet Ha (Hanoi, Vietnam)
+* Current: MS Training
+* Email: ha.nguyenviet310@gmail.com
+* Education
+  * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2017-9/2019
+    * Advisor: Professor Anders LinDroth
 
 March 2017
 ======
-Tran, Binh Thang (Hue city, Vietnam)
-* Current: PhD Training
-* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
-* Email: Binhthang1001@gmail.com
+(01). Tran, Thi Phuong Thao (Hanoi, Vietnam)
+* Current: MPH Training
+* Email: phuongthao.ytcc.yhn@gmail.com
+* Education
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2017-3/2019
+    * Advisor: Professor MinKyeong Lim
+
+(02). Hoang, Tung (Hanoi, Vietnam)
+* Current: MPH Training
+* Email: hoangtunggcsp@gmail.com
 
 * Education
-  * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
-  * M.P.H. in Cancer Control and Population Health, NCC-GCSP, 9/2015-8/2017  (Health Economics)
-    * MPH Thesis "Expected cigarette price premium on willingness to quit among men smokers in Da Nang city, Vietnam"
- * Publication: 
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2017-3/2019
+    * Advisor: Professor Seung-Kwon Myung
+
  
-September 2016
+September 2016 (08)
 ======
-(1) Tran, Binh Thang (Hue city, Vietnam)
-* Current: PhD Training
-* Previous Job: Researcher, Hue University of Medicine and Pharmacy, Vietnam
-* Email: Binhthang1001@gmail.com
+(01). Nguyen, Thi Ngoc Phuong (Hanoi, Vietnam)
+* Current: MPH Training
+* Email: xuantrinh93@gmail.com
+
+* Education
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
+    * Advisor: Professor KuiSon Choi
+(02). Nguyen, Thi Xuan Trinh (HCMC, Vietnam)
+* Current: MPH Training
+* Email: xuantrinh93@gmail.com
+* Education
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
+    * M.P.H Thesis 
+    * Advisor: Professor JinKyeong Oh
+   
+(03). Pham, Thi Thu (Hanoi, Vietnam)
+* Current: MPH Training
+* Email: thuphamhup@gmail.com
+* Education
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018 
+    * M.P.H Thesis 
+    * Advisor: Professor Boyong Park, SunYoung Kim
+(04). Nguyen, Ngoc Quy (Hanoi, Vietnam)
+* Current: MPH Training
+* Email: augustino0890@gmail.com
+* Education
+  * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
+    * M.P.H Thesis 
+    * Advisor: Professor Jeongseon Kim
+(05). Tran, Thi Anh Tho (Hanoi, Vietnam)
+* Current: MS Training
+* Email: trananhthohmu@gmail.com
+* Education
+  * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2016-9/2018 
+    * M.S Thesis 
+    * Advisor: Professor JongBae Park
+
+
+(8). Le, Thi Tuyet Minh (HCMC, Vietnam)
+* Current: MS Training
+* Email: lethituyetminh19289@gmail.com
+* Education
+  * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2016-3/2019 
+    * M.S Thesis 
+    * Advisor: Professor Ho Lee
+
+
+
 
 * Education
   * PhD. in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2021  (Health Economics)
