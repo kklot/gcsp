@@ -124,7 +124,7 @@ Tran, Binh Thang (Hue city, Vietnam)
 
 September 2014 (06)
 ======
-1. Luu, Ngoc Minh (Hanoi, Vietnam)
+Luu, Ngoc Minh (Hanoi, Vietnam)
 * Current: Lecturer, Ha Noi Medical University, Vietnam
 * Previous Job: Lecturer, Ha Noi Medical University, Vietnam
 * Email: luungocminh31@gmail.com 
@@ -136,7 +136,7 @@ September 2014 (06)
     * Advisor: Professor Dukhyoung Lee, Min Kyung Lim
  * Publication: 
 
-2. Hoang, Viet Bach (Hanoi, Vietnam)
+Hoang, Viet Bach (Hanoi, Vietnam)
 * Current: Researcher, National Cancer Hospital, Hanoi, Vietnam
 * Previous Job: Nil
 * Email: hoangvietbach90@gmail.com 
