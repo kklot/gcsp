@@ -10,7 +10,8 @@ redirect_from:
 Welcome to Vietnamese NCC-GCSP alumnus and current students !
 ======
 
-Welcome to the Association of Students and former GCSP students.
+Xin chào !
+
 We launched this site with the desire to connect brothers/sister whom graduated and are studying at [National Cancer Center Graduate School of Cancer Science and Policy](http://www.ncc-gcsp.ac.kr/). This will be a place to keep memories of yours while studying in the beautiful city of Korea - Goyang city.
 Cancer or other non-communicable diseases or other issues will be updated here in the form of references such as articles, student reports or conferences..
 
@@ -27,7 +28,7 @@ Các tài liệu hay các vấn đề về Ung thư hay các bệnh không lây 
 
 Vietnamese NCC GCSP (Photo May 2018)
 
-![Vietnamese NCC GCSP] (images/GCSP.png)
+[Vietnamese NCC GCSP] (/images/GCSP.png)
 
 
 NCC-GCSP information 
