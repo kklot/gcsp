@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Summary all GCSP alumnus profile - so please email me for your profile update (binhthang1001@gmail.com)
-
+Total of 25 students
 ======
 
 
