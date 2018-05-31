@@ -127,7 +127,6 @@ September 2014 (07)
 
 (2) Hoang, Viet Bach (Hanoi, Vietnam)
 * Current: Researcher, National Cancer Hospital, Hanoi, Vietnam
-* Previous Job: Nil
 * Email: hoangvietbach90@gmail.com 
 
 * Education
@@ -138,7 +137,6 @@ September 2014 (07)
     
 (3) Nguyen, Thi Thoai An (HCMC, Vietnam)
 * Current: Lecturer, HCMC University of Medicine and Pharmacy, HCMC, Vietnam
-* Previous Job: HCMC University of Medicine and Pharmacy, HCMC, Vietnam
 * Email: ntthoaian62@gmail.com
 
 * Education
@@ -162,7 +160,6 @@ September 2014 (07)
 
 (5) Bui, Cam Nhun (Hanoi, Vietnam)
 * Current: PhD training
-* Previous Job: Nil
 * Email: nhung305hmu@gmail.com
 
 * Education
