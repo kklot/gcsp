@@ -12,12 +12,12 @@ redirect_from:
 Summary all GCSP alumnus profile - so please email me for your profile update (binhthang1001@gmail.com)
 Total of 23 students
 
-* [The GCSP-Vietnamese Associtation 2018-2019] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-4/)
-* [The GCSP-Vietnamese Associtation 2017-2018] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-3/)
-* [The GCSP-Vietnamese Associtation 2016-2017] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-3/)
-* [The GCSP-Vietnamese Associtation 2014-2016] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-1/)
+* [The GCSP-Vietnamese Association 2018-2019] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-4/)
+* [The GCSP-Vietnamese Association 2017-2018] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-3/)
+* [The GCSP-Vietnamese Association 2016-2017] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-3/)
+* [The GCSP-Vietnamese Association 2014-2016] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-1/)
 
-
+[The GCSP-Vietnamese Association 2018-2019](http://gcsp.ytecongcong.com/posts/2012/08/blog-post-4/)
 ======
 
 
