@@ -17,7 +17,7 @@ Total of 23 students
 * [The GCSP-Vietnamese Association 2016-2017] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-3/)
 * [The GCSP-Vietnamese Association 2014-2016] (http://gcsp.ytecongcong.com/posts/2012/08/blog-post-1/)
 
-[The GCSP-Vietnamese Association 2018-2019](http://gcsp.ytecongcong.com/posts/2012/08/blog-post-4/)
+* [The GCSP-Vietnamese Association 2018-2019](http://gcsp.ytecongcong.com/posts/2012/08/blog-post-4/)
 ======
 
 
