@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Tobacco industry internal documents"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ' Internal documents are used inside your company to make decisions about different things. Co th??? hi???u la cac tai li???u l??u hanh n???i b??? c???a cac cong ty thu???c v??? chi???n l?????c kinh doanh va t??ng th??? ph???n thu???c la ??? cac n?????c'
+date: 2018-06-08
+venue: 'UCSF'
+paperurl: 'https://www.industrydocumentslibrary.ucsf.edu/tobacco/results/#q=Vietnam&h=%7B%22hideDuplicates%22%3Atrue%2C%22hideFolders%22%3Atrue%7D&subsite=tobacco&cache=true&count=34064'
+citation: 'UCSF. (2018). &quot;Truth Tobacco Industry Document.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Internal documents are used inside your company to make decisions about different things.It can be understood that the internal circulars of tobacco companies on business strategies and increased tobacco market in the country.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.industrydocumentslibrary.ucsf.edu/tobacco/results/#q=Vietnam&h=%7B%22hideDuplicates%22%3Atrue%2C%22hideFolders%22%3Atrue%7D&subsite=tobacco&cache=true&count=34064)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'UCSF. (2018). &quot;Truth Tobacco Industry Document.&quot; <i>Webpage</i>. 1(2).'
