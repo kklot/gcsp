@@ -2,7 +2,7 @@
 title: "Tobacco industry internal documents"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ' Internal documents are used inside your company to make decisions about different things. It can be understood that the internal circulars of tobacco companies on business strategies and increased tobacco market in the country.'
+excerpt: ' Tài liệu mật của các công ty thuốc lá. It can be understood that the internal circulars of tobacco companies on business strategies and increased tobacco market in the country.'
 date: 2018-06-08
 venue: 'UCSF'
 paperurl: 'trim.vn/5Ammbx'
