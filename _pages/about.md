@@ -37,6 +37,8 @@ NCC-GCSP information
 ======
 The [National Cancer Center Graduate School of Cancer Science and Policy](http://www.ncc-gcsp.ac.kr/) (hereafter referred to as NCC-GCSP) is the first national level institute of education and research in cancer science and policy, established by the National Cancer Center (NCC), Korea. 
 
+![](http://www.ncc-gcsp.ac.kr/eng/img/main/main_visual_2.jpg)
+
 * Mission
 The National Cancer Center Graduate School of Cancer Science and Policy nurtures global leaders with innovative theoretic Knowledge and practice expertise in the field of cancer science and policy to protect the people from cancer.
 
