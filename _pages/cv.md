@@ -95,7 +95,7 @@ September 2016 (06)
 ======
 (01). Nguyen, Thi Ngoc Phuong (Hanoi, Vietnam)
 * Current: MPH Training
-* Email: xuantrinh93@gmail.com
+* Email: nguyengocphuong2905@gmail.com
 
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
@@ -215,7 +215,7 @@ September 2014 (07)
     * Advisor: Professor Min Kyung Lim
    * Publication: 
 
-(5) Bui, Cam Nhun (Hanoi, Vietnam)
+(5) Bui, Cam Nhung (Hanoi, Vietnam)
 * Current: PhD training
 * Email: nhung305hmu@gmail.com
 
