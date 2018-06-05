@@ -8,7 +8,7 @@ venue: 'UCSF'
 paperurl: 'trim.vn/5Ammbx'
 citation: 'UCSF. (2018). &quot;Truth Tobacco Industry Document.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Internal documents are used inside your company to make decisions about different things.It can be understood that the internal circulars of tobacco companies on business strategies and increased tobacco market in the country.
+Internal documents are used inside your company to make decisions about different things (Tài liệu mật của các công ty thuốc lá).It can be understood that the internal circulars of tobacco companies on business strategies and increased tobacco market in the country.
 
 [Download paper here](trim.vn/5Ammbx)
 
