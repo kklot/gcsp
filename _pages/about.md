@@ -28,12 +28,9 @@ Rất mong nhận được sự hỗ trợ của các anh chị em bằng nhiề
     Web content admin: Binh Thang
     Design: Ytecongcong.com
 
-Vietnamese NCC GCSP (Photo May 2018)
 
 
-
-
-NCC-GCSP information 
+About NCC-GCSP
 ======
 The [National Cancer Center Graduate School of Cancer Science and Policy](http://www.ncc-gcsp.ac.kr/) (hereafter referred to as NCC-GCSP) is the first national level institute of education and research in cancer science and policy, established by the National Cancer Center (NCC), Korea. 
 
