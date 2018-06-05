@@ -19,7 +19,7 @@ Cancer or other non-communicable diseases or other issues will be updated here i
 
 Chào các bạn,
 Chào mừng đến với page của Hội SV và cựu SV từ GCSP. 
-Sau khi thảo luận chung với Mai, Nhung và một số anh chị em khác. Mình lập trang này với mong muốn kết nối các anh chị em đã từng và đang học tại GCSP. Đây sẽ là nơi lưu giữ những kỷ niệm đẹp của các anh chị em trong thời gian học tập tại thành phố Hoa xinh đẹp của Hàn Quốc - Goyang city. 
+Sau khi thảo luận chung với Mai, Nhung, Tùng và một số anh chị em khác. Mình lập trang này với mong muốn kết nối các anh chị em đã từng và đang học tại GCSP. Đây sẽ là nơi lưu giữ những kỷ niệm đẹp của các anh chị em trong thời gian học tập tại thành phố Hoa xinh đẹp của Hàn Quốc - Goyang city. 
 Ngoài ra, các tài liệu hay các vấn đề về Ung thư hay các bệnh không lây khác sẽ được cập nhật ở đây dưới dạng tài liệu tham khảo như bài báo, hay các tài liệu các bạn SV báo cáo hay từ các hội nghị.
 Rất mong nhận được sự hỗ trợ của các anh chị em bằng nhiều cách khác nhau. Như đóng góp tài liệu chẳng hạn hay chia sẻ thêm.
 
