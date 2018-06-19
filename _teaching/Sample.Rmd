@@ -1,0 +1,29 @@
+---
+title: 'Situation of accessibility of cancer patients in Vietnam: results from using
+  GIS analyis'
+author:
+  display_name: Mai Tran
+  login: Mai Tran
+date: '2018-06-20'
+location: GCSP, Korea
+permalink: /teaching/2018-spring-teaching-5
+collection: teaching
+type: Spatial Analysis
+venue: GCSP
+---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+Mai Chen hinh anh bang cach (Upload anh len goodgle drive)
+
+[](https://i.imgur.com/nSFokFx.jpg)
+
+Heading 2
+======
+
+Heading 3
+======
+
+Full report can be found here: [Download](http://www.ncc-gcsp.ac.kr/)
