@@ -16,7 +16,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Heading 1
 ======
-Mai Chen hinh anh bang cach (Upload anh len goodgle drive)
+Mai Chen hinh anh bang cach (Upload anh len imgur.com)
 
 ![](https://i.imgur.com/nSFokFxm.jpg)
 
