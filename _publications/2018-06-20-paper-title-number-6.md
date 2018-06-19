@@ -1,8 +1,8 @@
 ---
-title: "paper 6"
+title: "Publication 5"
 collection: publications
-permalink: /publication/2018-06-20-paper-title-number-6.md
-excerpt: 'Ban co the viet tom tat o day .'
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-06-20
 venue: 'Mai Tran'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
