@@ -1,15 +1,15 @@
 ---
-title: 'Situation of accessibility of cancer patients in Vietnam: results from using
-  GIS analyis'
-author:
-  display_name: Mai Tran
-  login: Mai Tran
+title: 'Situation of accessibility of cancer patients in Vietnam: results from using GIS analysis'
+layout: post
 date: '2018-06-20'
 location: GCSP, Korea
 permalink: /teaching/2018-spring-teaching-5
 collection: teaching
 type: Spatial Analysis
 venue: GCSP
+author:
+  display_name: Mai Tran
+  login: Mai Tran
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
