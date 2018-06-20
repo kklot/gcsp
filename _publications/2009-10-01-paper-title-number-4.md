@@ -1,7 +1,7 @@
 ---
 title: "Liver cancer in Vietnam"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2018-05-31-paper-title-number-2
 excerpt: 'Describe the situation on liver cancer in Vietnam' 
 date: 2018-MAY-31
 venue: 'personal review'
