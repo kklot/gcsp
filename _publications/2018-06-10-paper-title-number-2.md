@@ -1,7 +1,7 @@
 ---
 title: "Tobacco industry internal documents"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2018-06-10-paper-title-number-2
 excerpt: ' Tài liệu mật của các công ty thuốc lá. It can be understood that the internal circulars of tobacco companies on business strategies and increased tobacco market in the country.'
 date: 2018-06-08
 venue: 'UCSF'
