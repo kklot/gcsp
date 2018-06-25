@@ -45,7 +45,10 @@ The National Cancer Center Graduate School of Cancer Science and Policy nurtures
     *   Fostering new discoveries leading to improve health for the people of their native countries and all nations
 Building a world-wide platform to encourage academic interchange in the cancer field
 
+* Academic majors
 
+    *   Master of Public Health (Cancer Control and Population Health)
+    *   Master of Science (Cancer Biomedical Science)
 Latest Photos of GCSP
 ![](https://i.imgur.com/nSFokFx.jpg)
 
