@@ -6,12 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "GradDocuments"
+    url: /GradDocuments/    
 
   - title: "Teaching"
     url: /teaching/    
-    
 
         
   - title: "Blog Posts"
