@@ -6,15 +6,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "GradDocuments"
-    url: /GradDocuments/    
-
-  - title: "Teaching"
+   - title: "Teaching"
     url: /teaching/    
 
         
   - title: "Blog Posts"
     url: /year-archive/
+    
+  - title: "GradDocuments"
+    url: /GradDocuments/ 
     
   - title: "CV"
     url: /cv/
