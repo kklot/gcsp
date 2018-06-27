@@ -181,10 +181,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  talks:
+  GradDocuments:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -233,15 +232,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+
+  # _GradDocuments
   - scope:
       path: ""
-      type: talks
+      type: GradDocuments
     values:
-      layout: talk
+      layout: GradDocuments
       author_profile: true
       share: true
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
