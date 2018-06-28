@@ -15,7 +15,7 @@ main:
     url: /year-archive/
     
   - title: "GradDocuments"
-    url: /grad-documents/ 
+    url: /graddocuments/ 
     
   - title: "CV"
     url: /cv/
