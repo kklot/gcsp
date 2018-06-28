@@ -6,7 +6,7 @@ main:
     
   - title: "Publications"
     url: /publications/
-
+    
    - title: "Teaching"
     url: /teaching/
 
@@ -14,7 +14,7 @@ main:
     url: /year-archive/
     
   - title: "GradDocuments"
-    url: /graddocuments/ 
+    url: /graddocuments/
     
   - title: "CV"
     url: /cv/
