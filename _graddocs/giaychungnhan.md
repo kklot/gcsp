@@ -1,22 +1,29 @@
 ---
 layout: archive
-title: "Chứng nhận lãnh sự tại Bộ ngoại giao Hàn Quốc"
+title: "Các giấy tờ cần sau TN tại nước ngoài"
 permalink: /graddocs/
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
 
+CÁC GIẤY TỜ DÀNH CHO SINH VIÊN TỐT NGHIỆP Ở NƯỚC NGOÀI (CẦN)
+======
+* 1. Chứng nhận lãnh sự (Xem mục tương quan bên dưới)
+* 2. GIấy chừng nhận ĐSQ hoàn thành khóa học tại Hàn Quốc
+
+
+
+(1)Chứng nhận lãnh sự
+======
 Chứng nhận lãnh sự, tên tiếng Anh là Legalization, tiếng Hàn là 영사확인 là quá trình chứng thực hoặc xác nhận một tài liệu pháp lý để hệ thống pháp luật nước ngoài xem nó với hiệu lực pháp luật đầy đủ.
 
 Để giấy tờ, tài liệu được cấp bởi một cơ quan của Hàn Quốc được công nhận và sử dụng ở một nước khác hoặc cơ quan ngoại giao của nước khác đóng tại Hàn Quốc thì giầy tờ, tài liệu đó phải qua bước được chứng nhận lãnh sự bởi Bộ Ngoại giao Hàn Quốc. Nếu sử dụng ở nước khác thì cần thêm bước chứng thực của Đại sứ quán nước đó tại Hàn Quốc.
 Đối với người Việt Nam,  tài liệu chứng nhận lãnh sự phổ biến nhất là giấy chứng sinh của con cái, dùng để làm giấy khai sinh và hộ chiếu ở Đại sứ quán Việt Nam tại Hàn Quốc. ĐSQ VN không làm việc với giấy chứng sinh do bệnh viện cấp.
 
-
-THỦ TỤC
-======
-
+Thủ tục
 
 Gồm 3 bước: dịch, công chứng, chứng nhận lãnh sự ở Bộ Ngoại giao Hàn Quốc. Cả 3 bước này tại tòa nhà Korean RE (외교부 별관 Korean Re 빌딩), địa chỉ: 서울특별시 종로구 수송동 80.
 Số điện thoại: 외교부 영사확인 창구 ☏ (02) 2100-7600
@@ -68,4 +75,8 @@ LƯU Ý
 – Giấy tờ sau khi chứng nhận lãnh sự ở trên có thể sử dụng được ở Đại sứ quán Việt Nam tại Hàn Quốc. Muốn sử dụng giấy tờ này ở Việt Nam phải hợp pháp hóa lãnh sự tại Đại sứ quán Việt Nam tại Hàn Quốc. 
 
  Mức lệ phí được quy định rõ tại đây hoặc trên website của Bộ Ngoại giao.
+ 
+(2)HOÀN THÀNH KHÓA HỌC
+======
+
  
