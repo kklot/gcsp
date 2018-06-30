@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Chứng nhận lãnh sự tại Bộ ngoại giao Hàn Quốc"
-permalink: /graddocs/doc1/
+permalink: /graddocs/
 author_profile: true
 
 ---
