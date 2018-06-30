@@ -13,6 +13,7 @@ CÁC GIẤY TỜ DÀNH CHO SINH VIÊN TỐT NGHIỆP Ở NƯỚC NGOÀI (CẦN)
 ======
 * 1. Chứng nhận lãnh sự (Xem mục tương quan bên dưới)
 * 2. GIấy chứng nhận ĐSQ hoàn thành khóa học tại Hàn Quốc
+* 3. [Các giấy tờ cần thiết khác](https://sites.google.com/site/vietnampostech/cac-thu-tuc-can-thiet) 
 
 
 
@@ -90,3 +91,8 @@ LƯU Ý
 ======
 
  Đang cập nhật
+ 
+(3)CÁC GIẤY TỜ CẦN THIẾT KHÁC
+====== 
+ 
+ https://sites.google.com/site/vietnampostech/cac-thu-tuc-can-thiet
