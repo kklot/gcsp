@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-CÁC GIẤY TỜ DÀNH CHO SINH VIÊN TỐT NGHIỆP Ở NƯỚC NGOÀI (CẦN)
+Giấy tờ :(
 ======
 * 1. Chứng nhận lãnh sự (Xem mục tương quan bên dưới)
 * 2. GIấy chứng nhận ĐSQ hoàn thành khóa học tại Hàn Quốc
