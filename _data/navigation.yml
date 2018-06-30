@@ -13,8 +13,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "GradDocuments"
-    url: /graddocuments/ 
+  - title: "graddocs"
+    url: /graddocs/ 
 
   - title: "CV"
     url: /cv/
