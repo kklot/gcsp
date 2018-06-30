@@ -34,17 +34,17 @@ Bước 1. Xuống tầng B1,  dịch sang tiếng Việt/Anh ở phòng như h�
 Phí: 20,000원/1 tài liệu.
 
 
-
+![](https://sites.google.com/site/vietnampostech/_/rsrc/1491883757549/chung-nhan-lanh-su-tai-bo-ngoai-giao-han-quoc/hanquocngay.info_CNLS_1.jpg)
 
 Bước 2. Lên tầng 5, đi theo chỉ dẫn NOTARY như hình dưới để đến văn phòng luật sư và  lấy dấu công chứng. Thời gian: 5-10 phút.
 
 Phí: 25,000원1 tài liệu.
 
-
+![](https://sites.google.com/site/vietnampostech/_/rsrc/1491883757549/chung-nhan-lanh-su-tai-bo-ngoai-giao-han-quoc/hanquocngay.info_CNLS_3.jpg)
 
 
 Bước 3. Xuống tầng 4:
-3.1 Gặp người hướng dẫn, sẽ đc chỉ dẫn điền mẫu đơn 본부영사확인신청서 (download). 
+3.1 Gặp người hướng dẫn, sẽ đc chỉ dẫn điền mẫu đơn 본부영사확인신청서 (download). [Download](https://drive.google.com/file/d/0B-mSnhIfKsY9SGpWOGRxTFhKdVk/view) 
 Cách điền như sau:
 
 Phần 1. 신청자 인적사항: Thông tin người yêu cầu chứng thực
@@ -79,4 +79,4 @@ LƯU Ý
 (2)HOÀN THÀNH KHÓA HỌC
 ======
 
- 
+ Đang cập nhật
