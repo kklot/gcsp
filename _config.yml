@@ -180,8 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-
-  GradDocuments:
+  graddocs:
     output: true
     permalink: /:collection/:path/
 
@@ -233,12 +232,12 @@ defaults:
       share: true
       comment: true
 
-  # _GradDocuments
+  # _graddocs
   - scope:
       path: ""
-      type: GradDocuments
+      type: graddocs
     values:
-      layout: GradDocuments
+      layout: graddocs
       author_profile: true
       share: true
       
