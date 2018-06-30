@@ -90,7 +90,22 @@ LƯU Ý
 (2)HOÀN THÀNH KHÓA HỌC
 ======
 
- Đang cập nhật
+ 1. Đơn đề nghị xác nhận kết thúc học tập/nghiên cứu
+2. Bản photo quyết định cử đi học, nghiên cứu tại Hàn Quốc của cơ quan tại Việt Nam
+3. Bản photo quyết định gia hạn thời gian học tập, nghiên cứu tại Hàn Quốc (nếu có)
+4. Báo cáo tình hình và kết quả công tác, học tập trong thời gian ở nước ngoài (mẫu báo cáo ở dưới)
+5. Photo bằng tốt nghiệp hoặc giấy chứng nhận kết thúc khóa học của trường/viện đang theo học/nghiên cứu
+6. Bảng điểm học tập
+7. Photo 2 mặt thẻ cư trú
+8. Photo 2 mặt thẻ sinh viên
+9. Photo hộ chiếu (photo tất cả các trang, trừ các trang trắng)
+10. Ảnh chân dung 3×4 hoặc 4×6
+
+* Lưu ý: Để làm các thủ tục trên, SV cần có thêm bản nhận xét của Chi hội trưởng hoặc người đại diện chi hội mình đang sinh hoạt!
+
+Chú ý: cần mang theo bản gốc để đối chiếu
+
+https://sites.google.com/site/vietnampostech/LHS
  
 (3)CÁC GIẤY TỜ CẦN THIẾT KHÁC
 ====== 
