@@ -23,7 +23,13 @@ Chứng nhận lãnh sự, tên tiếng Anh là Legalization, tiếng Hàn là �
 Để giấy tờ, tài liệu được cấp bởi một cơ quan của Hàn Quốc được công nhận và sử dụng ở một nước khác hoặc cơ quan ngoại giao của nước khác đóng tại Hàn Quốc thì giầy tờ, tài liệu đó phải qua bước được chứng nhận lãnh sự bởi Bộ Ngoại giao Hàn Quốc. Nếu sử dụng ở nước khác thì cần thêm bước chứng thực của Đại sứ quán nước đó tại Hàn Quốc.
 Đối với người Việt Nam,  tài liệu chứng nhận lãnh sự phổ biến nhất là giấy chứng sinh của con cái, dùng để làm giấy khai sinh và hộ chiếu ở Đại sứ quán Việt Nam tại Hàn Quốc. ĐSQ VN không làm việc với giấy chứng sinh do bệnh viện cấp.
 
-Thủ tục
+* Thủ tục ở GCSP
+
+Đầu tiên xin giấy xác nhận bảng điểm (có tem nổi của GCSP, xin vài bản luôn) - Một điểm chú ý là nói trường cần ghi trong bảng điểm là chương trình đào tạo bằng 100% tiếng Anh. 
+
+Bản photo bằng TN + bảng chứng nhận tốt nghiệp của trường.
+
+* Thủ tục ở Bộ ngoại giao HQ
 
 Gồm 3 bước: dịch, công chứng, chứng nhận lãnh sự ở Bộ Ngoại giao Hàn Quốc. Cả 3 bước này tại tòa nhà Korean RE (외교부 별관 Korean Re 빌딩), địa chỉ: 서울특별시 종로구 수송동 80.
 Số điện thoại: 외교부 영사확인 창구 ☏ (02) 2100-7600
@@ -46,6 +52,10 @@ Phí: 25,000원1 tài liệu.
 Bước 3. Xuống tầng 4:
 3.1 Gặp người hướng dẫn, sẽ đc chỉ dẫn điền mẫu đơn 본부영사확인신청서 (download). [Download](https://drive.google.com/file/d/0B-mSnhIfKsY9SGpWOGRxTFhKdVk/view) 
 Cách điền như sau:
+
+https://www.0404.go.kr/consulate/consul_identify.jsp
+
+https://www.0404.go.kr/consulate/consul_apo.jsp
 
 Phần 1. 신청자 인적사항: Thông tin người yêu cầu chứng thực
 신청인 성명: Tên bằng tiếng Hàn
@@ -74,7 +84,7 @@ LƯU Ý
 – Phần dịch và công chứng ở văn phòng luật sư có thể làm ở nơi khác, sau đó đến tầng 4 tòa nhà ở trên để chứng nhận lãnh sự.
 – Giấy tờ sau khi chứng nhận lãnh sự ở trên có thể sử dụng được ở Đại sứ quán Việt Nam tại Hàn Quốc. Muốn sử dụng giấy tờ này ở Việt Nam phải hợp pháp hóa lãnh sự tại Đại sứ quán Việt Nam tại Hàn Quốc. 
 
- Mức lệ phí được quy định rõ tại đây hoặc trên website của Bộ Ngoại giao.
+ Mức lệ phí được quy định rõ tại đây hoặc trên website của Bộ Ngoại giao. https://vnembassy-seoul.mofa.gov.vn/vi-vn/Trang/default.aspx
  
 (2)HOÀN THÀNH KHÓA HỌC
 ======
