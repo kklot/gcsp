@@ -12,9 +12,8 @@ redirect_from:
 Chứng nhận lãnh sự, tên tiếng Anh là Legalization, tiếng Hàn là 영사확인 là quá trình chứng thực hoặc xác nhận một tài liệu pháp lý để hệ thống pháp luật nước ngoài xem nó với hiệu lực pháp luật đầy đủ.
 
 Để giấy tờ, tài liệu được cấp bởi một cơ quan của Hàn Quốc được công nhận và sử dụng ở một nước khác hoặc cơ quan ngoại giao của nước khác đóng tại Hàn Quốc thì giầy tờ, tài liệu đó phải qua bước được chứng nhận lãnh sự bởi Bộ Ngoại giao Hàn Quốc. Nếu sử dụng ở nước khác thì cần thêm bước chứng thực của Đại sứ quán nước đó tại Hàn Quốc.
-
 Đối với người Việt Nam,  tài liệu chứng nhận lãnh sự phổ biến nhất là giấy chứng sinh của con cái, dùng để làm giấy khai sinh và hộ chiếu ở Đại sứ quán Việt Nam tại Hàn Quốc. ĐSQ VN không làm việc với giấy chứng sinh do bệnh viện cấp.
-======
+
 
 THỦ TỤC
 ======
