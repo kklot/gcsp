@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 CÁC GIẤY TỜ DÀNH CHO SINH VIÊN TỐT NGHIỆP Ở NƯỚC NGOÀI (CẦN)
 ======
 * 1. Chứng nhận lãnh sự (Xem mục tương quan bên dưới)
-* 2. GIấy chừng nhận ĐSQ hoàn thành khóa học tại Hàn Quốc
+* 2. GIấy chứng nhận ĐSQ hoàn thành khóa học tại Hàn Quốc
 
 
 
