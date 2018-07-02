@@ -100,12 +100,24 @@ LƯU Ý
 8. Photo 2 mặt thẻ sinh viên
 9. Photo hộ chiếu (photo tất cả các trang, trừ các trang trắng)
 10. Ảnh chân dung 3×4 hoặc 4×6
+11. Có giấy xác nhận không vi phạm pháp luật Hàn Quốc do chính quyền địa phương nơi sinh viên cư trú, học tập cấp (cá nhân lưu học sinh liên hệ với cảnh sát hoặc bộ phận tư pháp của nơi cư trú để xin cấp giấy chứng nhận này – Có hình ảnh mẫu).
 
 * Lưu ý: Để làm các thủ tục trên, SV cần có thêm bản nhận xét của Chi hội trưởng hoặc người đại diện chi hội mình đang sinh hoạt!
 
 Chú ý: cần mang theo bản gốc để đối chiếu
 
 https://sites.google.com/site/vietnampostech/LHS
+
+Đại sứ Quán VN tại HQ:
+ 
+Địa chỉ: 123 Bukchon-ro, Jongno-gu, Seoul, Korea 110-230
+
+ 
+BT thứ nhất: Anh Cao Minh Đức, email: duccm@yahoo.com, ĐT:  (02) 720-5126
+
+Link Mẫu 1: http://vsak.com.vn/arti-mau-bao-cao-ket-qua-hoc-tap
+
+Link Mẫu 2: http://vsak.com.vn/arti-mau-giay-xac-nhan-cua-chi-hoi-sinh-vien
  
 (3)CÁC GIẤY TỜ CẦN THIẾT KHÁC
 ====== 
