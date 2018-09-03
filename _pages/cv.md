@@ -30,7 +30,7 @@ September 2018 (02)
   * Master of Public Health (9/2018-9/2020)
   * BPH. in Hanoi Medical University
  
-(01). Tran, Anh (Hanoi, Vietnam)
+(01). Dang, Hoang Nguyen (HCMC, Vietnam)
 * Current: MPH training
 * Email: 
  * Advisor: Professor Cho, Hyun Soon
