@@ -19,9 +19,24 @@ A total of 23 students are currently studying or graduated from GCSP
 
 
 
-September 2018
+September 2018 (02)
 ======
-updating
+(01). Tran, Anh (Hanoi, Vietnam)
+* Current: MPH training
+* Previous Job: Hanoi Medical University
+* Email: 
+ * Advisor: Professor Choi, Kui Son
+* Education
+  * Master of Public Health (9/2018-9/2020)
+  * BPH. in Hanoi Medical University
+ 
+(01). Tran, Anh (Hanoi, Vietnam)
+* Current: MPH training
+* Email: 
+ * Advisor: Professor Cho, Hyun Soon
+* Education
+  * Master of Public Health (9/2018-9/2020)
+
 
 March 2018 (03)
 ======
@@ -42,7 +57,6 @@ March 2018 (03)
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2018-3/2020
     * Advisor: Professor Jin-Kyoung Oh
-
 
 (03). Le, Trong Dat (Hanoi, Vietnam)
 * Current: MS Training
@@ -94,7 +108,7 @@ March 2017 (02)
 September 2016 (06)
 ======
 (01). Nguyen, Thi Ngoc Phuong (Hanoi, Vietnam)
-* Current: MPH Training
+* Current: Researcher, Hanoi School of Public Health
 * Email: nguyengocphuong2905@gmail.com
 
 * Education
@@ -102,7 +116,7 @@ September 2016 (06)
     * Advisor: Professor KuiSon Choi
     
 (02). Nguyen, Thi Xuan Trinh (HCMC, Vietnam)
-* Current: MPH Training
+* Current: Researcher, Pharmaceutical company
 * Email: xuantrinh93@gmail.com
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
@@ -110,7 +124,7 @@ September 2016 (06)
     * Advisor: Professor JinKyeong Oh
    
 (03). Pham, Thi Thu (Hanoi, Vietnam)
-* Current: MPH Training
+* Current:  Researcher, Pharmaceutical company
 * Email: thuphamhup@gmail.com
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018 
@@ -118,7 +132,7 @@ September 2016 (06)
     * Advisor: Professor Boyong Park, SunYoung Kim
 
 (04). Nguyen, Ngoc Quy (Hanoi, Vietnam)
-* Current: MPH Training
+* Current: Graduated, 
 * Email: augustino0890@gmail.com
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
@@ -126,7 +140,7 @@ September 2016 (06)
     * Advisor: Professor Jeongseon Kim
 
 (05). Tran, Thi Anh Tho (Hanoi, Vietnam)
-* Current: MS Training
+* Current: Medical Doctor, Nghe An Province Oncology Hospital 
 * Email: trananhthohmu@gmail.com
 * Education
   * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2016-9/2018 
