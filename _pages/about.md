@@ -45,13 +45,18 @@ The National Cancer Center Graduate School of Cancer Science and Policy nurtures
     *   Fostering new discoveries leading to improve health for the people of their native countries and all nations
 Building a world-wide platform to encourage academic interchange in the cancer field
 
-* Academic majors
+* Academic majors (PhD and Master level) - Public Health and Medical Science
 
-    *   Master of Public Health (Cancer Control and Population Health)
-    *   Master of Science (Cancer Biomedical Science)
+    *    Majoring in Public Health (Cancer Control and Population Health)
     
-* Academic tracks
+      *      Track 1 : Cancer Causes and Prevention
+      *      Track 4 : Cancer Control Planning, Implementation, and Evaluation
+      *      Track 5 : Health Data Science
 
+    *    Majoring in Science (Cancer Biomedical Science)
+      *    Track 2 : Cancer Biomarker Science
+      *    Track 3 : Cancer Therapeutic Science
+      
 
 Latest Photos of GCSP
 ![](https://i.imgur.com/nSFokFx.jpg)
