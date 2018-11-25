@@ -60,12 +60,10 @@ Building a world-wide platform to encourage academic interchange in the cancer f
       
 
 Latest Photos of GCSP
-![](https://i.imgur.com/nSFokFx.jpg)
-
-![](https://i.imgur.com/rFm3wvo.jpg)
+![](https://photos.app.goo.gl/VWfAU1gFU8Kx9m3D7)
 
 
-![](https://lh3.googleusercontent.com/gDDYrgryQJUR5M_6NqkJuXjyTQLMcnQHSQQkW_zrWxJ2x7jnWc2RW1vEa-SXC_vINYuGM0tXDkhEBSMz_iHDqzzLBj-oXW6bpuANwDiIBA7pBTvL2C_1uVCfQaphfQtC3EdNBytBpklyyRGlxedHkby2WMFbvK0iI00BW3NpDQZuO1dX9zWoUJoNvmeF_1Ze1Gl2H_LpnbgRMdEFUAkNYoleRS9HR-db2MtVbHPPEMVtfVVc9wnalMWLG_d_DSh1iXIgGvDsMxv0f4hksxMlbdWJHA8p9g8_agRNPF12UsWotwsZFNnf-mrGsklzw3gsneWrm_NKNWyu2d4w0rqeYwVNPd_aj5htGptR68GRLKLCfkCF-hTlFin_wrwTa3nZ7zBHiLfuPjdHF5cVlfzZqDScMlxGxdVADGbABFJpZXSUAuSANxBXWv7mXJTbbF0hbjt7SUr1C8-yidYCDEKmCyQGFqgKQjQCmJsnlRkbCs23zn4alQullkWy0G2C2ljrSJIN7P4rLsFA-Y44VbIG2WdF4GqaJ48Suz2U_CFTzb2fTDU_f-iPZn2p1HAuuC0FnFAdktv0AxewAaXbnH0f-TFMTMIVaIrgMBOyPPc=w1357-h901-no)
+
 
 
 
