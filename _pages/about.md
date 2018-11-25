@@ -23,10 +23,17 @@ Sau khi thảo luận chung với Mai, Nhung, Tùng và một số anh chị em 
 Ngoài ra, các tài liệu hay các vấn đề về Ung thư hay các bệnh không lây khác sẽ được cập nhật ở đây dưới dạng tài liệu tham khảo như bài báo, hay các tài liệu các bạn SV báo cáo hay từ các hội nghị.
 Rất mong nhận được sự hỗ trợ của các anh chị em bằng nhiều cách khác nhau. Như đóng góp tài liệu chẳng hạn hay chia sẻ thêm.
 
+Latest Photos of GCSP
+![](https://i.imgur.com/TQ4yXUQ.jpg)
+
 
 
     Web content admin: Binh Thang
     Design: Ytecongcong.com
+
+
+
+
 
 
 
@@ -59,8 +66,7 @@ Building a world-wide platform to encourage academic interchange in the cancer f
       *    Track 3 : Cancer Therapeutic Science
       
 
-Latest Photos of GCSP
-![](https://photos.app.goo.gl/VWfAU1gFU8Kx9m3D7)
+
 
 
 
