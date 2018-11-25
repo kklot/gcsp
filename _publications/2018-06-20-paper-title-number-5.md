@@ -1,7 +1,8 @@
 ---
 title: "Geographic distribution and access to cancer care"
 collection: publications
-permalink: /publication/2018-06-20-paper-title-number-4
+permalink: /publication/2018-06-20-paper-title-number-5
+
 excerpt: ' In Vietnam, the National Cancer Control Plan was started in 2008 with aims to provide effective diagnosis and treatment. Even though the Cancer Control Network over 2011-2020 had been approved by the Ministry of Health, the cancer control infrastructure in Vietnam is still inadequate.[1] Given the limited resources, reallocation of available facilities and infrastructure to low-accessibility areas is thus of great importance.'
 date: 2018-06-20
 venue: 'Mai Tran'
