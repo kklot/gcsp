@@ -207,7 +207,7 @@ September 2014 (07)
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-3/2017 
     * M.P.H Thesis "The effect of dietary vitamin C, thiamine, and riboflavin of gastric cancer risk in the korean population"
     * Advisor: Professor Jeongseon Kim
-    
+    * PhD student in Hanoi Medical University (2018 - 
 (3) Nguyen, Thi Thoai An (HCMC, Vietnam)
 * Current: Lecturer, HCMC University of Medicine and Pharmacy, HCMC, Vietnam
 * Email: ntthoaian62@gmail.com
