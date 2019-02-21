@@ -90,11 +90,12 @@ September 2017 (02)
 March 2017 (02)
 ======
 (01). Tran, Thi Phuong Thao (Hanoi, Vietnam)
-* Current: MPH Training
+* Current: PhD Training
 * Email: phuongthao.ytcc.yhn@gmail.com
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2017-3/2019
     * Advisor: Professor MinKyeong Lim
+    * Thesis: Factors associated with smoking relapse among adolescents: Data from longitudinal follow up of Quitline users in Korea
 
 (02). Hoang, Tung (Hanoi, Vietnam)
 * Current: MPH Training
@@ -103,6 +104,7 @@ March 2017 (02)
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2017-3/2019
     * Advisor: Professor Seung-Kwon Myung
+    * Thesis: Efficacy of Crizotinib, Ceritinib, and Alectinib in Treatment of ALK-positive Non-Small Cell Lung Cancer: A Meta-analysis and A Network Meta-analysis of Clinical Trials
 
  
 September 2016 (06)
@@ -114,29 +116,31 @@ September 2016 (06)
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
     * Advisor: Professor KuiSon Choi
+    * M.P.H Thesis: Factors Associated with the HPV Vaccination among Child-bearing Aged Women in Hanoi, Vietnam
     
 (02). Nguyen, Thi Xuan Trinh (HCMC, Vietnam)
-* Current: Researcher, Pharmaceutical company
+* Current: Researcher, Pharmaceutical company (Da Nang city, Vietnam)
 * Email: xuantrinh93@gmail.com
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
-    * M.P.H Thesis 
+    * M.P.H Thesis: Economic Burden of Cancers attributable to Infection in Korea in 2014 
     * Advisor: Professor JinKyeong Oh
    
 (03). Pham, Thi Thu (Hanoi, Vietnam)
 * Current:  Researcher, Pharmaceutical company
 * Email: thuphamhup@gmail.com
 * Education
+  * Pharmacy, Hanoi Pharmacy University, Hanoi, VN
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018 
-    * M.P.H Thesis 
+    * M.P.H Thesis: Night-Shift Work, Circadian Genes and Their Interaction on Breast Cancer Risk: Evidence from a Case-Control Study in Korean Women 
     * Advisor: Professor Boyong Park, SunYoung Kim
 
 (04). Nguyen, Ngoc Quy (Hanoi, Vietnam)
-* Current: Graduated, 
+* Current: Data Scientist, Data Company (Korea)
 * Email: augustino0890@gmail.com
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2016-9/2018
-    * M.P.H Thesis 
+    * M.P.H Thesis: Causal Effect of Body Mass Index on Thyroid Cancer Risk: A Mendelian Randomization Analysis 
     * Advisor: Professor Jeongseon Kim
 
 (05). Tran, Thi Anh Tho (Hanoi, Vietnam)
@@ -146,6 +150,7 @@ September 2016 (06)
   * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2016-9/2018 
     * M.S Thesis 
     * Advisor: Professor JongBae Park
+    * Thesis "A Study of New Therapeutic Approaching RAF Degradation by Using Proteolysis Targeting Chimera"
 
 
 (06). Le, Thi Tuyet Minh (HCMC, Vietnam)
@@ -153,8 +158,9 @@ September 2016 (06)
 * Email: lethituyetminh19289@gmail.com
 * Education
   * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2016-3/2019 
-    * M.S Thesis 
+    * M.S Thesis:  Loss of Epithelial membrane Protein-2 Promotes Epithelial to Mesenchymal Transition in Breast Cancer Progression
     * Advisor: Professor Ho Lee
+    
 
 
 
