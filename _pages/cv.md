@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Summary all GCSP alumnus profile - so please email me for your profile update (binhthang1001@gmail.com)
-A total of 25 students are currently studying or graduated from GCSP
+A total of 29 students are currently studying or graduated from GCSP
 
 * [The GCSP-Vietnamese Association 2017-2019](http://gcsp.ytecongcong.com/posts/2012/08/blog-post-1/)
 * [The GCSP-Vietnamese Association 2015-2017](http://gcsp.ytecongcong.com/posts/2012/08/blog-post-2/)
