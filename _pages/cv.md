@@ -17,6 +17,10 @@ A total of 25 students are currently studying or graduated from GCSP
 
 ======
 
+March 2019 (04)
+======
+
+
 
 
 September 2018 (02)
@@ -90,7 +94,7 @@ September 2017 (02)
 March 2017 (02)
 ======
 (01). Tran, Thi Phuong Thao (Hanoi, Vietnam)
-* Current: PhD Training
+* Current: PhD Training (3/2019- Present -Batch 3)
 * Email: phuongthao.ytcc.yhn@gmail.com
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 3/2017-3/2019
