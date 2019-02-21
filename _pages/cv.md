@@ -98,7 +98,7 @@ March 2017 (02)
     * Thesis: Factors associated with smoking relapse among adolescents: Data from longitudinal follow up of Quitline users in Korea
 
 (02). Hoang, Tung (Hanoi, Vietnam)
-* Current: MPH Training
+* Current: Reseacher, NCC-GCSP (Professor Kim Jeong Seon) 
 * Email: hoangtunggcsp@gmail.com
 
 * Education
@@ -207,13 +207,14 @@ September 2014 (07)
 
 (2) Hoang, Viet Bach (Hanoi, Vietnam)
 * Current: Researcher, National Cancer Hospital, Hanoi, Vietnam
+* PhD student in Hanoi Medical University, Vietnam (2018- present) 
 * Email: hoangvietbach90@gmail.com 
 
 * Education
   * M.P.H in Cancer Control and Population Health, NCC-GCSP, 9/2014-3/2017 
     * M.P.H Thesis "The effect of dietary vitamin C, thiamine, and riboflavin of gastric cancer risk in the korean population"
     * Advisor: Professor Jeongseon Kim
-    * PhD student in Hanoi Medical University (2018 - 
+    * PhD student in Hanoi Medical University (2018- present) 
 (3) Nguyen, Thi Thoai An (HCMC, Vietnam)
 * Current: Lecturer, HCMC University of Medicine and Pharmacy, HCMC, Vietnam
 * Email: ntthoaian62@gmail.com
