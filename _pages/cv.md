@@ -131,7 +131,7 @@ September 2016 (06)
     * Advisor: Professor JinKyeong Oh
    
 (03). Pham, Thi Thu (Hanoi, Vietnam)
-* Current:  Researcher, Pharmaceutical company
+* Current:  Researcher, Pharmaceutical company (HCMC, Vietnam)
 * Email: thuphamhup@gmail.com
 * Education
   * Pharmacy, Hanoi Pharmacy University, Hanoi, VN
