@@ -158,7 +158,7 @@ September 2016 (06)
 
 
 (06). Le, Thi Tuyet Minh (HCMC, Vietnam)
-* Current: MS Training
+* Current: Graduated
 * Email: lethituyetminh19289@gmail.com
 * Education
   * M.S in Cancer Biomedical Science, NCC-GCSP, 9/2016-3/2019 
